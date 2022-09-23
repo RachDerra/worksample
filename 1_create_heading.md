@@ -13,5 +13,5 @@
 ### 3. Base de Données Rélationnelle
 * PostgreSQL
 ## III. Déploiement
-### 1. AWS
+### 1. AWS EC2
 ### 2. Heroku
